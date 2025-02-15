@@ -55,8 +55,8 @@ This project demonstrates how to host a website on an ESP32 and make it accessib
 🎥 Watch the reels video [here](#) *(Add your link once uploaded!)*
 
 ## 📂 Project Files
-- `esp32_web_server.ino` → Arduino sketch for the web server.
-- `index.html` → Webpage content served by ESP32.
+- `esp32_web_server.ino` → Arduino sketch for the web server (contains embedded HTML code).
+
 
 ## ⭐ Contribute
 Feel free to fork, modify, and improve this project! If you find this useful, give it a ⭐ on GitHub!
